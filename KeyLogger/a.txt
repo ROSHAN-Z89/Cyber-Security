@@ -1,0 +1,4 @@
+File Handling 
+    open("name of the file with xtnsion", mode of file )
+        Mode of file
+            w == write    r == read   a == append
