@@ -7,8 +7,8 @@ Saves captured keystrokes to keylogger.txt
 Runs in the background until manually stopped
 
 pip install pynput
-Usage
-Run the script using:
+
+Usage: Run the script using:
 
 sh
 Copy
