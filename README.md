@@ -8,7 +8,7 @@ Runs in the background until manually stopped
 
 Install the modules: pip install pynput
 
-Usage: Run the script using:
+Run the script using:
 
 sh
 Copy
@@ -17,7 +17,7 @@ python keylogger.py
 Keystrokes will be logged in keylogger.txt.
 
 Code Explanation:
-The script listens for keystrokes and writes them to keylogger.txt. It handles exceptions for non-character keys.
+The script listens for keystrokes and stores them in a file named keylogger.txt. It handles exceptions for non-character keys.
 
 python
 from pynput import keyboard
