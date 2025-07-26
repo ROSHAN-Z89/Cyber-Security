@@ -6,7 +6,7 @@ Logs all keystrokes
 Saves captured keystrokes to keylogger.txt
 Runs in the background until manually stopped
 
-pip install pynput
+Install the modules: pip install pynput
 
 Usage: Run the script using:
 
